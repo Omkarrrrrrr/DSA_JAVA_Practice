@@ -1,4 +1,5 @@
 // here we will be finding using for loop
+//By taking user inout
 
 import java.util.*;
 
