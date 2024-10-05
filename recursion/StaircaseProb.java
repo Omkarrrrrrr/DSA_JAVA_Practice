@@ -24,3 +24,5 @@ public class StaircaseProb {
         System.out.println("Total no of ways to climb the stairs: " + result);
     }
 }
+//Time complexity = O(2^n)
+//Space comoplexity = O(n)
