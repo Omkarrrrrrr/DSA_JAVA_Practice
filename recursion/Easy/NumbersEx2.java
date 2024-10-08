@@ -1,3 +1,4 @@
+package Easy;
 public class NumbersEx2 {
     public static void main(String[] args) {
       // Print numbers from 1 to 5 using recursion

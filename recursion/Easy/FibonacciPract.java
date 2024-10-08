@@ -1,3 +1,4 @@
+package Easy;
 // without using user input(directly declaring variable)
 
 public class FibonacciPract{

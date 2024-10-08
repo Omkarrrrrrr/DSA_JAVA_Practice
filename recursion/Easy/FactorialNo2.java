@@ -1,3 +1,4 @@
+package Easy;
 
 //Using iterative approach - for loop
 import java.util.*;

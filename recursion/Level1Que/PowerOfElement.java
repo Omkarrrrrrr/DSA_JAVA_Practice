@@ -1,3 +1,4 @@
+package Level1Que;
 import java.io.*;
 import java.math.BigInteger;  // Import BigInteger class
 import java.util.Scanner;
