@@ -21,3 +21,4 @@ public class BSRec {
     }
     
 }
+// tc and sc =  O(logn)

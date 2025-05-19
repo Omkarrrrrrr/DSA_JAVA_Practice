@@ -10,7 +10,7 @@ public class FactorialNo {
         //FunctionCalling
         int result = factorialNum(n);
         System.out.println(result);
-        ;
+        
 
     }
 

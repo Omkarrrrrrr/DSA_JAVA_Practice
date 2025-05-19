@@ -17,7 +17,7 @@ public class SumofDigits {
             return 0;
         }
         else{
-            return  sum(n/10) + n % 10; 
+            return  n % 10 + sum(n/10); 
         }
     }
     

@@ -1,7 +1,7 @@
 //TC = O(log n)
 // SC = O(1)
 import java.util.*;
-public class LowerBound {
+public class LowerBound{
 
 
     //Function defining
