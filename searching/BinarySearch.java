@@ -1,7 +1,6 @@
 import java.util.*;
-import java.io.*;
 
-public class BinarySearch(1) {
+public class BinarySearch {
 
     public static int binarySearch(int[]arr,int target){
         int low=0,high=arr.length-1;
